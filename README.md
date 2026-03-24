@@ -22,3 +22,27 @@ This helps identify problem areas and improve payment collection efficiency.
 ![Screenshot 1](Screenshot%202026-03-24%20192039.png)
 
 ![Screenshot 2](Screenshot%202026-03-24%20192108.png)
+## ECF Expense Analysis Project 
+
+### Objective
+To analyze expenses and identify high-cost areas for better budget planning.
+
+### Steps
+- Collected and understood the expense dataset  
+- Cleaned and organized data in Excel and Power BI  
+- Built interactive dashboard to visualize expense patterns  
+
+### Key Insights
+- Identified high-cost areas contributing to 8% of unnecessary expenses  
+- Provided insights to improve operational efficiency and reduce costs  
+
+### Tools Used
+Power BI, Excel
+
+### Business Use
+This analysis helps in budgeting and cost control, enabling smarter business decisions.
+
+## Screenshots
+
+![ECF Screenshot 1](Screenshot 2026-03-24 195538.png)  
+![ECF Screenshot 2](Screenshot 2026-03-24 195556.png)
