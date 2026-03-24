@@ -1,4 +1,4 @@
-## 📊 AR Dashboard Project
+## AR Dashboard Project
 
 ### Objective
 To track outstanding payments and identify high-risk clients.
