@@ -73,3 +73,31 @@ This analysis helps identify dietary trends and health risks, enabling organizat
 
 ![Screenshot 1](Screenshot%202026-03-24%20201529.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20201457.png)
+## Financial Transaction Analysis Project
+
+### Objective
+To identify high-value transactions and provide an overview of sales and financial performance.
+
+### Steps
+- Collected and cleaned financial transaction data  
+- Analyzed transaction patterns to identify high-value customers and top-performing products  
+- Built dashboards in Power BI / Excel to visualize sales and financial performance  
+
+### Key Insights
+- Highlighted high-value transactions for strategic focus  
+- Identified trends in sales and financial metrics  
+- Provided insights for better business decisions  
+
+### Tools Used
+Power BI, Excel
+
+### Project File
+- Detailed dashboards can be shared upon request
+
+### Business Use
+This analysis helps management monitor key financial metrics, identify high-value customers, and make informed decisions to improve revenue and financial performance.
+
+## Screenshots
+
+![Screenshot 1](Screenshot%202026-03-24%20204623.png)  
+![Screenshot 2](Screenshot%202026-03-24%20204606.png)
