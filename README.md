@@ -44,5 +44,5 @@ This analysis helps in budgeting and cost control, enabling smarter business dec
 
 ## Screenshots
 
-![ECF Screenshot 1](Screenshot 2026-03-24 195538.png)  
-![ECF Screenshot 2](Screenshot 2026-03-24 195556.png)
+![ECF Screenshot 1](ECF_Screenshot1.png)  
+![ECF Screenshot 2](ECF_Screenshot2.png)
