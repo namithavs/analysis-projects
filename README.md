@@ -1,103 +1,95 @@
-## AR Dashboard Project
+# Analysis Projects by Namitha VS
 
-### Objective
-To track outstanding payments and identify high-risk clients.
+Welcome to my portfolio of data analysis and dashboard projects.  
+This repository includes interactive dashboards, reports, and visualizations created using **Power BI, Excel, and Tableau**.
 
-### Steps
+---
+
+## 1. AR Dashboard Project
+**Objective:** Track outstanding payments and identify high-risk clients.  
+
+**Steps:**
 - Collected and understood the dataset  
 - Cleaned data using Power BI (Power Query)  
-- Created visualizations and built dashboard  
+- Built interactive visualizations and dashboard  
 
-### Key Insights
+**Key Insights:**
 - Identified clients with delayed payments  
 - Highlighted high-risk departments  
 
-### Tools Used
-Power BI, Excel
+**Tools Used:** Power BI, Excel  
 
-### Business Use
-This helps identify problem areas and improve payment collection efficiency.
-## Screenshots
+**Business Use:** Helps identify problem areas and improve payment collection efficiency.  
 
-![Screenshot 1](Screenshot%202026-03-24%20192039.png)
-
+**Screenshots:**  
+![Screenshot 1](Screenshot%202026-03-24%20192039.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20192108.png)
-## ECF Expense Analysis Project 
 
-### Objective
-To analyze expenses and identify high-cost areas for better budget planning.
+---
 
-### Steps
-- Collected and understood the expense dataset  
-- Cleaned and organized data in Excel and Power BI  
-- Built interactive dashboard to visualize expense patterns  
+## 2. ECF Expense Analysis Project
+**Objective:** Analyze expenses and identify high-cost areas for better budget planning.  
 
-### Key Insights
-- Identified high-cost areas contributing to 8% of unnecessary expenses  
-- Provided insights to improve operational efficiency and reduce costs  
+**Steps:**
+- Collected and cleaned expense data in Excel and Power BI  
+- Built interactive dashboards to visualize expense patterns  
 
-### Tools Used
-Power BI, Excel
+**Key Insights:**
+- Identified high-cost areas contributing to ~8% of unnecessary expenses  
+- Provided actionable insights for cost reduction and operational efficiency  
 
-### Business Use
-This analysis helps in budgeting and cost control, enabling smarter business decisions.
+**Tools Used:** Power BI, Excel  
 
-## Screenshots
+**Business Use:** Supports smarter budgeting and cost control decisions.  
 
+**Screenshots:**  
 ![Screenshot 1](Screenshot%202026-03-24%20195538.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20195556.png)
-## Food Habits Analysis Project (Tableau)
 
-### Objective
-To analyze food consumption patterns and lifestyle diseases in India.
+---
 
-### Steps
+## 3. Food Habits Analysis Project (Tableau)
+**Objective:** Analyze food consumption patterns and lifestyle diseases in India.  
+
+**Steps:**
 - Collected and cleaned dataset in Excel  
 - Built interactive dashboards in Tableau  
 - Visualized trends and patterns for data-driven recommendations  
 
-### Key Insights
-- Showed regions with highest risk of lifestyle diseases  
-- Identified patterns in diet across different age groups  
+**Key Insights:**
+- Highlighted regions with higher lifestyle disease risk  
+- Identified dietary patterns across age groups  
 
-### Tools Used
-Tableau, Excel
+**Tools Used:** Tableau, Excel  
 
-### Project File
-- Food_Habits_Analysis.twbx (Tableau Packaged Workbook)
+**Project File:** Food_Habits_Analysis.twbx  
 
-### Business Use
-This analysis helps identify dietary trends and health risks, enabling organizations to make informed decisions and plan health interventions effectively.
+**Business Use:** Helps organizations understand dietary trends and plan health interventions effectively.  
 
-## Screenshots
-
+**Screenshots:**  
 ![Screenshot 1](Screenshot%202026-03-24%20201529.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20201457.png)
-## Financial Transaction Analysis Project
 
-### Objective
-To identify high-value transactions and provide an overview of sales and financial performance.
+---
 
-### Steps
+## 4. Financial Transaction Analysis Project
+**Objective:** Identify high-value transactions and analyze sales and financial performance.  
+
+**Steps:**
 - Collected and cleaned financial transaction data  
-- Analyzed transaction patterns to identify high-value customers and top-performing products  
-- Built dashboards in Power BI / Excel to visualize sales and financial performance  
+- Analyzed patterns to identify high-value customers and top-performing products  
+- Built dashboards in Power BI and Excel to visualize key metrics  
 
-### Key Insights
+**Key Insights:**
 - Highlighted high-value transactions for strategic focus  
-- Identified trends in sales and financial metrics  
-- Provided insights for better business decisions  
+- Identified trends in sales and financial performance  
 
-### Tools Used
-Power BI, Excel
+**Tools Used:** Power BI, Excel  
 
-### Project File
-- Detailed dashboards can be shared upon request
+**Project Files:** Full dashboards available upon request  
 
-### Business Use
-This analysis helps management monitor key financial metrics, identify high-value customers, and make informed decisions to improve revenue and financial performance.
+**Business Use:** Supports management in monitoring key financial metrics and making informed revenue decisions.  
 
-## Screenshots
-
+**Screenshots:**  
 ![Screenshot 1](Screenshot%202026-03-24%20204623.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20204606.png)
