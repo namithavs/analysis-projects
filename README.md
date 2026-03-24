@@ -46,10 +46,10 @@ This analysis helps in budgeting and cost control, enabling smarter business dec
 
 ![Screenshot 1](Screenshot%202026-03-24%20195538.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20195556.png)
-## Food Habits Analysis Project (Tableau) 
+## Food Habits Analysis Project (Tableau)
 
 ### Objective
-To analyse food consumption patterns and lifestyle diseases in India. 
+To analyze food consumption patterns and lifestyle diseases in India.
 
 ### Steps
 - Collected and cleaned dataset in Excel  
@@ -65,6 +65,9 @@ Tableau, Excel
 
 ### Project File
 - Food_Habits_Analysis.twbx (Tableau Packaged Workbook)
+
+### Business Use
+This analysis helps identify dietary trends and health risks, enabling organizations to make informed decisions and plan health interventions effectively.
 
 ## Screenshots
 
