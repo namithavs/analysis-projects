@@ -93,3 +93,25 @@ This repository includes interactive dashboards, reports, and visualizations cre
 **Screenshots:**  
 ![Screenshot 1](Screenshot%202026-03-24%20204623.png)  
 ![Screenshot 2](Screenshot%202026-03-24%20204606.png)
+---
+
+## 5. Sales Performance Analysis (PowerPoint Project)
+**Objective:** Analyze sales trends across regions and products and present insights through visual storytelling.  
+
+**Steps:**
+- Collected and analyzed sample sales data  
+- Identified trends across regions, categories, and performance metrics  
+- Designed a structured PowerPoint presentation with clear visuals and insights  
+
+**Key Insights:**
+- Identified high-performing regions and top-selling products  
+- Highlighted low-performing areas with improvement opportunities  
+- Presented insights in a clear, business-friendly format  
+
+**Tools Used:** PowerPoint, Excel  
+
+**Business Use:** Helps stakeholders quickly understand performance trends and supports data-driven decision-making through impactful presentations.  
+
+**Screenshots:**  
+![Screenshot 1](Screenshot%202026-03-26%20135426.png)  
+![Screenshot 2](Screenshot%202026-03-26%20135444.png)
